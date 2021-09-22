@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/res">
+        <file>ico/64x64/down_arrow.ico</file>
+        <file>ico/64x64/fill_star.ico</file>
+        <file>ico/64x64/plus.ico</file>
+        <file>ico/64x64/star.ico</file>
+        <file>ico/64x64/trash.ico</file>
+        <file>ico/64x64/up_arrow.ico</file>
+        <file>ico/64x64/locate_gps.ico</file>
+        <file>ico/No_Signal.png</file>
+    </qresource>
+</RCC>
